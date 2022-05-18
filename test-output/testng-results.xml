@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6333" started-at="2022-05-18T15:05:47 CDT" finished-at="2022-05-18T15:05:53 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6333" started-at="2022-05-18T15:05:47 CDT" finished-at="2022-05-18T15:05:53 CDT">
+      <class name="addcategoryTest.AddCategoryTest">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:addcategoryTest.AddCategoryTest@15d0c81b]" name="Test1" duration-ms="3989" started-at="2022-05-18T15:05:47 CDT" finished-at="2022-05-18T15:05:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:addcategoryTest.AddCategoryTest@15d0c81b]" name="Test2" duration-ms="2293" started-at="2022-05-18T15:05:51 CDT" finished-at="2022-05-18T15:05:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- addcategoryTest.AddCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
